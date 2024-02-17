@@ -1,0 +1,18 @@
+.nav-link {
+  border-color: #e4e4e4;
+  border-bottom: 0;
+  color: #fff;
+  background-color: #337ab7;
+}
+
+.nav-item {
+  cursor: pointer;
+}
+
+.nav-tabs {
+  border: none;
+}
+
+.tabular-set {
+  position: relative;
+}
